@@ -6,3 +6,4 @@ this is a test master branch
 Creating a new branch is quick AND simple merge 123 and ten
 This is a test
 This is a test two
+This is a test one
